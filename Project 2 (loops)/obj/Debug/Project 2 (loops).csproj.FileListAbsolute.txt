@@ -1,0 +1,8 @@
+C:\Users\Alexandre\OneDrive\Documents\C# practice\Project 2 (loops)\obj\Debug\Project 2 (loops).csproj.AssemblyReference.cache
+C:\Users\Alexandre\OneDrive\Documents\C# practice\Project 2 (loops)\obj\Debug\Project 2 (loops).csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\OneDrive\Documents\C# practice\Project 2 (loops)\bin\Debug\Project 2 (loops).exe.config
+C:\Users\Alexandre\OneDrive\Documents\C# practice\Project 2 (loops)\bin\Debug\Project 2 (loops).exe
+C:\Users\Alexandre\OneDrive\Documents\C# practice\Project 2 (loops)\bin\Debug\Project 2 (loops).pdb
+C:\Users\Alexandre\OneDrive\Documents\C# practice\Project 2 (loops)\obj\Debug\Project 2 (loops).exe
+C:\Users\Alexandre\OneDrive\Documents\C# practice\Project 2 (loops)\obj\Debug\Project 2 (loops).pdb
+C:\Users\Alexandre\OneDrive\Documents\C# practice\Project 2 (loops)\obj\Debug\Project 2 (loops).exe.config
